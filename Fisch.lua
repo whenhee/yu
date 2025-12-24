@@ -1,6 +1,6 @@
 local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Footagesus/WindUI/main/dist/main.lua"))()
 local Window = WindUI:CreateWindow({
-  Title = "大司马｜鱼",
+  Title = "大司马脚本｜鱼",
   Folder = "大司马脚本",
   Size = UDim2.fromOffset(220, 220),
 })
